@@ -1,0 +1,12 @@
+C:\Users\RA2457058\Source\Repos\conclave\conclave\bin\Debug\conclave.exe.config
+C:\Users\RA2457058\Source\Repos\conclave\conclave\bin\Debug\conclave.exe
+C:\Users\RA2457058\Source\Repos\conclave\conclave\bin\Debug\conclave.pdb
+C:\Users\RA2457058\Source\Repos\conclave\conclave\obj\Debug\conclave.csproj.AssemblyReference.cache
+C:\Users\RA2457058\Source\Repos\conclave\conclave\obj\Debug\conclave.Form1.resources
+C:\Users\RA2457058\Source\Repos\conclave\conclave\obj\Debug\conclave.formGerenciar.resources
+C:\Users\RA2457058\Source\Repos\conclave\conclave\obj\Debug\conclave.FrmVotar.resources
+C:\Users\RA2457058\Source\Repos\conclave\conclave\obj\Debug\conclave.Properties.Resources.resources
+C:\Users\RA2457058\Source\Repos\conclave\conclave\obj\Debug\conclave.csproj.GenerateResource.cache
+C:\Users\RA2457058\Source\Repos\conclave\conclave\obj\Debug\conclave.csproj.CoreCompileInputs.cache
+C:\Users\RA2457058\Source\Repos\conclave\conclave\obj\Debug\conclave.exe
+C:\Users\RA2457058\Source\Repos\conclave\conclave\obj\Debug\conclave.pdb
